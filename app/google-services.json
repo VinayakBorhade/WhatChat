@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1054613411744",
+    "firebase_url": "https://whatchat-8b57d.firebaseio.com",
+    "project_id": "whatchat-8b57d",
+    "storage_bucket": "whatchat-8b57d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054613411744:android:18dbf74fd7c0f78f",
+        "android_client_info": {
+          "package_name": "com.example.vinayak.whatchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054613411744-uqhkhcscddikq74n2cjdvhd4tumbrdv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinayak.whatchat",
+            "certificate_hash": "92993a386ea4b95d15588999d4e7df54e1376e74"
+          }
+        },
+        {
+          "client_id": "1054613411744-nge5i4gr82434qgbf6gm4109l6pie2rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQsFidGq4sdRvyAUFBqzmgZ6v6ljpDUcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054613411744-nge5i4gr82434qgbf6gm4109l6pie2rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
